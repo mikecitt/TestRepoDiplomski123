@@ -106,4 +106,4 @@ venv.bak/
 # commissarma
 .vscode
 checkpoints/
-data/
+#data/
